@@ -1,0 +1,14 @@
+C:\Users\lizar\OneDrive\Desktop\Chapter3Studio\Chapter3Studio\bin\Debug\net8.0\Chapter3Studio.exe
+C:\Users\lizar\OneDrive\Desktop\Chapter3Studio\Chapter3Studio\bin\Debug\net8.0\Chapter3Studio.deps.json
+C:\Users\lizar\OneDrive\Desktop\Chapter3Studio\Chapter3Studio\bin\Debug\net8.0\Chapter3Studio.runtimeconfig.json
+C:\Users\lizar\OneDrive\Desktop\Chapter3Studio\Chapter3Studio\bin\Debug\net8.0\Chapter3Studio.dll
+C:\Users\lizar\OneDrive\Desktop\Chapter3Studio\Chapter3Studio\bin\Debug\net8.0\Chapter3Studio.pdb
+C:\Users\lizar\OneDrive\Desktop\Chapter3Studio\Chapter3Studio\obj\Debug\net8.0\Chapter3Studio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lizar\OneDrive\Desktop\Chapter3Studio\Chapter3Studio\obj\Debug\net8.0\Chapter3Studio.AssemblyInfoInputs.cache
+C:\Users\lizar\OneDrive\Desktop\Chapter3Studio\Chapter3Studio\obj\Debug\net8.0\Chapter3Studio.AssemblyInfo.cs
+C:\Users\lizar\OneDrive\Desktop\Chapter3Studio\Chapter3Studio\obj\Debug\net8.0\Chapter3Studio.csproj.CoreCompileInputs.cache
+C:\Users\lizar\OneDrive\Desktop\Chapter3Studio\Chapter3Studio\obj\Debug\net8.0\Chapter3Studio.dll
+C:\Users\lizar\OneDrive\Desktop\Chapter3Studio\Chapter3Studio\obj\Debug\net8.0\refint\Chapter3Studio.dll
+C:\Users\lizar\OneDrive\Desktop\Chapter3Studio\Chapter3Studio\obj\Debug\net8.0\Chapter3Studio.pdb
+C:\Users\lizar\OneDrive\Desktop\Chapter3Studio\Chapter3Studio\obj\Debug\net8.0\Chapter3Studio.genruntimeconfig.cache
+C:\Users\lizar\OneDrive\Desktop\Chapter3Studio\Chapter3Studio\obj\Debug\net8.0\ref\Chapter3Studio.dll

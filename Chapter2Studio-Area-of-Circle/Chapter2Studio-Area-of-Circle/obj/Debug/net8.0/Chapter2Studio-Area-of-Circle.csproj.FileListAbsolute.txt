@@ -1,0 +1,14 @@
+C:\Users\lizar\OneDrive\Desktop\Chapter2Studio-Area-of-Circle\Chapter2Studio-Area-of-Circle\bin\Debug\net8.0\Chapter2Studio-Area-of-Circle.exe
+C:\Users\lizar\OneDrive\Desktop\Chapter2Studio-Area-of-Circle\Chapter2Studio-Area-of-Circle\bin\Debug\net8.0\Chapter2Studio-Area-of-Circle.deps.json
+C:\Users\lizar\OneDrive\Desktop\Chapter2Studio-Area-of-Circle\Chapter2Studio-Area-of-Circle\bin\Debug\net8.0\Chapter2Studio-Area-of-Circle.runtimeconfig.json
+C:\Users\lizar\OneDrive\Desktop\Chapter2Studio-Area-of-Circle\Chapter2Studio-Area-of-Circle\bin\Debug\net8.0\Chapter2Studio-Area-of-Circle.dll
+C:\Users\lizar\OneDrive\Desktop\Chapter2Studio-Area-of-Circle\Chapter2Studio-Area-of-Circle\bin\Debug\net8.0\Chapter2Studio-Area-of-Circle.pdb
+C:\Users\lizar\OneDrive\Desktop\Chapter2Studio-Area-of-Circle\Chapter2Studio-Area-of-Circle\obj\Debug\net8.0\Chapter2Studio-Area-of-Circle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lizar\OneDrive\Desktop\Chapter2Studio-Area-of-Circle\Chapter2Studio-Area-of-Circle\obj\Debug\net8.0\Chapter2Studio-Area-of-Circle.AssemblyInfoInputs.cache
+C:\Users\lizar\OneDrive\Desktop\Chapter2Studio-Area-of-Circle\Chapter2Studio-Area-of-Circle\obj\Debug\net8.0\Chapter2Studio-Area-of-Circle.AssemblyInfo.cs
+C:\Users\lizar\OneDrive\Desktop\Chapter2Studio-Area-of-Circle\Chapter2Studio-Area-of-Circle\obj\Debug\net8.0\Chapter2Studio-Area-of-Circle.csproj.CoreCompileInputs.cache
+C:\Users\lizar\OneDrive\Desktop\Chapter2Studio-Area-of-Circle\Chapter2Studio-Area-of-Circle\obj\Debug\net8.0\Chapter2Studio-Area-of-Circle.dll
+C:\Users\lizar\OneDrive\Desktop\Chapter2Studio-Area-of-Circle\Chapter2Studio-Area-of-Circle\obj\Debug\net8.0\refint\Chapter2Studio-Area-of-Circle.dll
+C:\Users\lizar\OneDrive\Desktop\Chapter2Studio-Area-of-Circle\Chapter2Studio-Area-of-Circle\obj\Debug\net8.0\Chapter2Studio-Area-of-Circle.pdb
+C:\Users\lizar\OneDrive\Desktop\Chapter2Studio-Area-of-Circle\Chapter2Studio-Area-of-Circle\obj\Debug\net8.0\Chapter2Studio-Area-of-Circle.genruntimeconfig.cache
+C:\Users\lizar\OneDrive\Desktop\Chapter2Studio-Area-of-Circle\Chapter2Studio-Area-of-Circle\obj\Debug\net8.0\ref\Chapter2Studio-Area-of-Circle.dll
